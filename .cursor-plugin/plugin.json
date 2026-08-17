@@ -1,0 +1,14 @@
+{
+  "name": "blue-triangle-mcp",
+  "version": "1.0.0",
+  "description": "Blue Triangle web performance & revenue analytics via MCP — CWV, errors, resource timing, and conversion data across site accounts.",
+  "author": {
+    "name": "Blue Triangle Technologies",
+    "email": "support@bluetriangle.com"
+  },
+  "homepage": "https://mcp.bluetriangle.com",
+  "repository": "https://github.com/blue-triangle-tech/bluetriangle-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "blue-triangle", "web-performance", "core-web-vitals", "rum", "analytics"],
+  "logo": "assets/icon.svg"
+}

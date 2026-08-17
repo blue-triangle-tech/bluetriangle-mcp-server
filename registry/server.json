@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.blue-triangle-tech/bluetriangle-mcp",
+  "description": "Blue Triangle web performance & revenue analytics via MCP",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/blue-triangle-tech/bluetriangle-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://mcp.bluetriangle.com",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/blue-triangle-tech/bluetriangle-mcp/main/assets/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.bluetriangle.com/mcp"
+    }
+  ]
+}
